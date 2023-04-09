@@ -1,0 +1,17 @@
+perintah: 
+    Buatlah program kasir untuk menghitung total bayar dengan input data nama baranag, harga barang dan jumlah barang.
+    Total harga adalah harga barang DIKALIKAN Jumlah barang. dan terdapat Discount 10% dari total harga.
+    Total harga = total harga  - Discount;
+
+
+Algorithm 
+
+1. import java.util.Scanner; 
+    untuk mendapatkan input dari user.
+2. Buat Method dengan nama 'menuKasir(){}'. yang didalam-Nya terdapat menu-menu penjualan.
+3. Buat Method 'hitung(){}', untuk menghitung total bayar dan Discount.
+4. Buat satu method lagi untuk Membuat Program Keluar sesuai kebutuhan user-Nya.
+    Yaitu buat method 'keluar(){}'. dan gunakan While loop agar program terus berjalan.
+
+
+WELL DONE...

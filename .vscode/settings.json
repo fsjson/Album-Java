@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "recursive-method",
+        "project/src",
+        "calculator-sederhana/src/com/project/Switch-case",
+        "calculator-sederhana/src/com/project/IF-Statement",
+        ""
+    ]
+}

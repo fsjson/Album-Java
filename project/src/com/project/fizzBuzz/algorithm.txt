@@ -1,0 +1,24 @@
+Perintah: 
+    Cetak angka baris demi baris dari 1 hingga 100. Namun, untuk angka yang merupakan kelipatan tiga, cetak "Fizz", 
+    dan untuk angka yang merupakan kelipatan lima, cetak "Buzz".
+    Apabila angka merupakan kelipatan tiga dan lima, cetak "FizzBuzz".
+
+
+Algoritma:
+
+1. buat for loop 1 - 100;
+2. dalam for loop, kondisi pertama:
+    Jika n % 3 == 0, maka cetak "Fizz";
+
+    kondisi kedua:
+    Jika n % 5 == 0, maka cetak "Buzz";
+
+    kondisi ketiga:
+    Jikan n % 15 == 0, maka cetak "FizzBuzz";
+
+
+Note:
+
+1. 15 adalah kelipatan dari 3 dan 5.
+2. 3 adalah kelipatan dari 3.
+3. 5 adalah kelipatan dari 5.

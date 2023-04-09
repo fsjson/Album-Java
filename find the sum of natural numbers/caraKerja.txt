@@ -1,0 +1,17 @@
+Cara kerja file Main.java
+dalam package com.javafundamental.Main;
+
+disebutkan bahwa, komputer diberi perintah agar meghitung atau mencari data / bilangan asli dari 1 - 100.
+dengan cara kerja seperti berikut:
+
+kita tahu bahwa, dalam program tersebut memakai for loop untuk melakukan pencariannya. maka dari sana kita bisa tahu bahwa\
+cara kerjanya hanya menambah angka dari 1 - 100.
+
+maksudnya gimana bwank?
+gini ni..
+
+dari perintah :
+si komputer yang saya beri nama sony. disuruh mengihtung hasil bilangan asli dari 1 - 100.
+si sony ini punya kekuatan super karena ia punya kekuatan / teknik-nya. Yang ia sebuat dnegan for loop.
+si sony lantas mengerjakan-nya dengan cepat.
+Ia menjumlahkan(+) dari angka 1 sampai 100. (1 + 2 = 3 + 4 = 7 + 5 = 12, ... n).

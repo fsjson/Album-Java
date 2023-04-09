@@ -1,0 +1,34 @@
+Meskipun keduanya adalah pernyataan kontrol alur dalam bahasa pemrograman Java, tetapi terdapat perbedaan penting antara 
+continue dan break.
+
+continue digunakan untuk melompati satu iterasi dari loop saat kondisi tertentu terpenuhi. Setelah eksekusi continue, 
+program akan melanjutkan ke iterasi berikutnya dari loop. Sebagai contoh, dalam loop for, jika kondisi continue terpenuhi 
+maka program akan melompati bagian kode yang tersisa pada iterasi saat ini dan melanjutkan ke iterasi berikutnya.
+
+break, di sisi lain, digunakan untuk menghentikan eksekusi loop dan melanjutkan eksekusi program di luar loop. 
+Ketika program menemukan break dalam loop, loop akan berhenti dan eksekusi program akan dilanjutkan setelah loop. 
+Sebagai contoh, jika sebuah kondisi pada loop terpenuhi, kita dapat menggunakan break untuk menghentikan eksekusi loop 
+dan melanjutkan eksekusi program di luar loop.
+
+Berikut adalah contoh penggunaan continue dan break dalam loop for:
+
+//contoh penggunaan continue
+for (int i = 0; i < 5; i++) {
+    if (i == 3) {
+        continue;
+    }
+    System.out.println(i);
+}
+
+//contoh penggunaan break
+for (int i = 0; i < 5; i++) {
+    if (i == 3) {
+        break;
+    }
+    System.out.println(i);
+}
+
+
+Dalam contoh di atas, pada penggunaan continue, ketika nilai i adalah 3, maka pernyataan continue akan dilewati 
+dan program akan melanjutkan ke iterasi berikutnya. Sedangkan pada penggunaan break, 
+ketika nilai i adalah 3, maka program akan keluar dari loop dan melanjutkan eksekusi program di luar loop.
