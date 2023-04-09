@@ -1,0 +1,4 @@
+1001,John Doe,80,75,90
+1002,Jane Smith,85,90,95
+1003,Bob Johnson,70,80,75
+
